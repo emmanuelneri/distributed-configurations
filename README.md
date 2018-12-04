@@ -50,7 +50,7 @@ cd app
 mvn spring-boot:run
 ```
 
-App aplication log:
+App application log:
 ```
 c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8888
 c.c.c.ConfigServicePropertySourceLocator : Located environment: name=app, profiles=[default], label=null, version=24f2a8d2927a3bd516c49b06dc2ca37c9bab5326, state=null
@@ -67,7 +67,7 @@ cd web
 mvn spring-boot:run
 ```
 
-Web aplication log:
+Web application log:
 ```
 c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8888
 c.c.c.ConfigServicePropertySourceLocator : Located environment: name=web, profiles=[default], label=null, version=24f2a8d2927a3bd516c49b06dc2ca37c9bab5326, state=null
