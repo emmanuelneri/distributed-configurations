@@ -1,10 +1,14 @@
 # distributed-configurations
 
----
-
 Distributed configurations with Spring Cloud Config Server
 
+---
 
+SouJava channel presentation: https://www.youtube.com/watch?v=9EUpXKL9n5E
+
+TDC POA 2018 slides: https://www.slideshare.net/emmanuelnerisouza/configuraes-distribudas-com-spring-cloud-config
+
+---
 
 ## Preparing environment
 
